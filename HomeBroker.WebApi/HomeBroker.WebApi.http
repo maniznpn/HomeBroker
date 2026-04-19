@@ -1,0 +1,6 @@
+@HomeBroker.WebApi_HostAddress = http://localhost:5101
+
+GET {{HomeBroker.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

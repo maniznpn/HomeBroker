@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="HomeBroker.Application/HomeBroker.Application.csproj" Id="e98741e4-b411-4dc9-bdd3-463f20fcc221" />
+  <Project Path="HomeBroker.Domain/HomeBroker.Domain.csproj" Id="3a675e89-4c53-46ee-9a2b-912fe54b99c0" />
+  <Project Path="HomeBroker.Infrastructure/HomeBroker.Infrastructure.csproj" Id="2cb6d76c-0903-4b7c-8d49-199b40e68cec" />
+  <Project Path="HomeBroker.Tests/HomeBroker.Tests.csproj" />
+  <Project Path="HomeBroker.WebApi/HomeBroker.WebApi.csproj" Id="139a9aca-ed5c-4fa0-a93d-668aef76d9e4" />
+</Solution>
